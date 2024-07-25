@@ -15,6 +15,6 @@ To analyze influenza trends and their implications for staffing needs nationwide
 Excel, PowerPoint, Tableau
 
 
-# Tableau Storyboard to showcase analysis results
+# Tableau Storyboard 
 [Final Story](https://public.tableau.com/app/profile/vineeta.sinha/viz/PresentationforStakeholders/Story1)
 
