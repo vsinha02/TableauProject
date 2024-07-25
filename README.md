@@ -6,7 +6,11 @@ The World Happiness Report is an annual publication that explores the factors co
 
 # Data Source
 [Influenza Deaths](/CDC_Influenza_Deaths_edited.xlsx)
+
 [CDC Lab Test](/CDC_Lab_Tests.xlsx)
+
+# Tools
+Excel, PowerPoint, Tableau
 
 
 # Tableau Storyboard to showcase analysis results
